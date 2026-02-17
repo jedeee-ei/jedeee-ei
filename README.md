@@ -25,23 +25,4 @@ Here are some of the technologies I work with:
 - **Database:** MySQL  
 - **Tools:** Git, GitHub, VS Code  
 
----
 
-## 📌 What I’m Working On
-
-- Building responsive websites
-- Improving my JavaScript skills
-- Exploring backend development
-- Creating personal and academic projects
-
----
-
-## 📫 Connect With Me
-
-I am always open to learning opportunities, collaborations, and new challenges in the field of web development.
-
----
-
-> "Code is not just lines on a screen — it's a tool to build ideas into reality."
-
-Thank you for visiting my profile! 🚀
